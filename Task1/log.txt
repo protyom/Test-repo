@@ -1,0 +1,13 @@
+$ git log
+commit ffc52d350eeb607f7a298853b20bb1ea5186984f (HEAD -> master)
+Author: A?oai <protyom@gmail.com>
+Date:   Thu Feb 14 17:59:09 2019 +0300
+
+    add status.txt
+
+commit 5c023af8325a3a7a69770eaf3cb969fe0e7e6e74
+Author: A?oai <protyom@gmail.com>
+Date:   Thu Feb 14 17:55:47 2019 +0300
+
+    add .gitignore
+
